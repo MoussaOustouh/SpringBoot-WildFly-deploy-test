@@ -11,6 +11,7 @@
     <groupId>mo.spring</groupId>
     <artifactId>SpringBoot-WildFly-deploy-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>SpringBoot-WildFly-deploy-test</name>
     <description>SpringBoot-WildFly-deploy-test</description>
     <properties>
